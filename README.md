@@ -1,0 +1,2 @@
+# lfgl-tech
+Site pour = LFGL-Tech est une entreprise innovante spécialisée dans le développement de solutions logicielles sur mesure. Nous créons des systèmes informatiques adaptés aux besoins spécifiques de nos clients, allant de la digitalisation des processus à la gestion des paiements en ligne.
