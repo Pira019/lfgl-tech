@@ -1,18 +1,11 @@
-<script setup>
-import HelloWorld from './components/HelloWorld.vue'
-</script>
-
 <template>
-  <div>
-    <a href="https://vitejs.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
-    </a>
-  </div>
-  <HelloWorl>
-    <button class="btn btn-primary">TEST</button>
-  </HelloWorl>
+    <base-layoute>
+    <template #header>  
+     <Menu/>
+    </template>
+    </base-layoute>
 </template>
-
+<script setup>
+import BaseLayoute from '@/components/BaseLayoute.vue' 
+import Menu from '@/components/Menu.vue' 
+</script>
